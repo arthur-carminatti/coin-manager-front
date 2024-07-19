@@ -1,5 +1,8 @@
 export default function Home() {
   return (
-    <div className="text-4xl bg-slate-900">olá</div>
+    <main>
+      <div className="text-4xl text-defaultFont">Olá, bem vindo Arthur!</div>
+      <div className="bg-slotColor">32423</div>
+    </main>
   );
 }

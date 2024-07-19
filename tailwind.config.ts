@@ -6,6 +6,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        defaultFont: '#ecfeff',
+      },
+      backgroundColor: {
+        bgDefault: '#0A0E27',
+        slotColor: '#171C3A',
+      }
     },
   },
   plugins: [],
