@@ -12,7 +12,7 @@ const config: Config = {
 
       gridTemplateRows: {
         app: 'minmax(2rem, 4rem) 1fr auto',
-        content: 'minmax(10rem, 12rem) minmax(10rem, 12rem) minmax(10rem, 12rem)',
+        content: 'minmax(10rem, 12rem) minmax(10rem, 17rem) minmax(10rem, 17rem)',
       },
 
       backgroundColor: {
